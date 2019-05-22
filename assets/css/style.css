@@ -1,0 +1,99 @@
+body{
+
+	
+	margin: 0;
+	padding: 0;
+}
+#nav-bar{
+	
+	background-color: #02BA6B;
+	padding-top: 19px;
+	color: white;
+	border: 1.5px solid #007D4C;
+	margin-right: : 0px;
+}
+#nav-button{
+
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+#nav-bar{
+	height: 50px;
+	
+}
+#footer{
+
+	background-color: #02BA6B;
+	padding-top: 16px;
+	color: white;
+	border: 1.5px solid #007D4C;
+	margin: 0px; 
+}
+#body-container{
+	height: 300px;
+
+
+}
+#place-an-appointment{
+	border: .02px dashed #AC0101;
+	border-radius: 8px;
+	margin-top: 100px;
+	margin-left: 470px;
+	margin-right: 470px;
+	padding: 10px;
+	background-color: #02BA6B;
+	color: white;
+}
+
+#place-appointment{
+	border: 2.5px dashed #02BA6B;
+	border-radius: 8px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	margin-left: 600px;
+	margin-right: 600px;
+	padding: 10px;
+	background-color: white;
+	color: #02BA6B;
+}		
+
+#place{
+	border: 2.5px solid #02BA6B;
+	border-radius: 8px;
+	padding: 10px;
+	background-color: white;
+	color: #02BA6B;
+}
+#pro-pic{
+	border: 2px solid #007D4C;
+	border-radius: 100px;
+	height: 200px;
+}
+
+#profile{
+	border: 2.5px solid #007D4C;
+	border-radius: 8px;
+	margin-left: 400px;
+	margin-right: 400px;
+	margin-top: 80px;
+	margin-bottom: 80px;
+	padding-bottom: 80px;
+	background-color: #02BA6B;
+}	
+#slct1,#slct2,#slct3,#slct4{
+	border: 2.5px solid #02BA6B;
+	border-radius: 8px;
+	padding: 10px;
+	background-color: white;
+	color: #02BA6B;
+}
+#add-filter-form{
+	border: 2.5px dashed #02BA6B;
+	border-radius: 8px;
+	margin: 50px;
+	padding-top: 30px;
+}
